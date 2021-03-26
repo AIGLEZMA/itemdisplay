@@ -1,0 +1,6 @@
+name: Texty
+version: ${project.version}
+main: me.aiglez.texty.Texty
+api-version: 1.13
+authors: [ AigleZ ]
+description: A text-json plugin
