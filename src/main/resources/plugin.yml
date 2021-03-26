@@ -1,6 +1,6 @@
-name: Texty
+name: ItemDisplay
 version: ${project.version}
-main: me.aiglez.texty.Texty
+main: me.aiglez.texty.ItemDisplay
 api-version: 1.13
 authors: [ AigleZ ]
 description: A text-json plugin
